@@ -28,7 +28,7 @@ class JWebSocketClientService : Service() {
         private const val HEART_BEAT_RATE = (10 * 1000).toLong()
 
         //地址
-        private val url = "ws://websock.dlxk.com:8080"
+        private val url = "服务端给你的地址"
     }
 
     var notificationManager: NotificationManager? = null
